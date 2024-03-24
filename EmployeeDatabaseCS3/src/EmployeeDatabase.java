@@ -83,9 +83,9 @@ public class EmployeeDatabase {
 		
 	}
 
-	public char[] remove(Employee employee) {
+	public boolean remove(Employee employee) {
 		// TODO Auto-generated method stub
-		return null;
+		return false;
 	}
 
 	
