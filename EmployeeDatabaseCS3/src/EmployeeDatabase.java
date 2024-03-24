@@ -83,6 +83,11 @@ public class EmployeeDatabase {
 		
 	}
 
+	public char[] remove(Employee employee) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	
 	
 }
