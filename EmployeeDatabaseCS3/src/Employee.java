@@ -17,7 +17,7 @@ public class Employee extends EmployeeDatabase {
 	
 	public boolean equals(Employee o) {
 		
-		return id == o.id;
+		return id == o.id && name.equals(o.name);
 		
 	}
 	
@@ -30,8 +30,15 @@ public class Employee extends EmployeeDatabase {
 	@Override
 	public String toString() {
 		
-		return "name " + name + " id: " + id;
+		return "name: " + name + " id: " + id;
 		
 	}
+	
+	public int getID() {
+		
+		return id;
+		
+	}
+
 
 }

@@ -1,10 +1,10 @@
 public class DatabaseTester {
 
 	public static void main(String[] args) {
-//		test00add();
-//		test01contains();
-// 		test02remove();
-//		test03checkForStop();
+    	test00add();
+		test01contains();
+		test02remove();
+		test03checkForStop();
 	}
 
 	public static void test00add() {
