@@ -1,4 +1,4 @@
-A compilation of all Computer Science 3 Advanced (Data Structures and Algorithms) assignments for years 2023-2024. <br />
+A compilation of all Computer Science 3 Advanced (Data Structures and Algorithms) assignments/labs for years 2023-2024. <br />
 Unit 0: Review & Lists <br />
 Unit 1: Stacks <br />
 Unit 2: Queues <br />
