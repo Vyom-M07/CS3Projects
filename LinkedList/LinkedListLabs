@@ -1,0 +1,2 @@
+All Labs for Unit 3
+A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. Instead, data is stored in objects called nodes that keep a reference to their successor.
